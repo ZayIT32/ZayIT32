@@ -5,7 +5,7 @@
  - [Cloud Provisioning - P2 Licensing](https://github.com/ZayIT32/p2-licensing)
  - [Role Assignments](https://github.com/ZayIT32/role-assignments)
  - [Group Assignments](https://github.com/ZayIT32/Group-assign)
- - [Identity Lifecycle]()
+ - [Identity Lifecycle](https://github.com/ZayIT32/identity-lifecycle)
  - [Audit Logs]()
  - [Sign-In Logs]()
  - [Authentication]()
