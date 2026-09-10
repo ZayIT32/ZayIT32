@@ -12,7 +12,7 @@
 
 - <b>Deployment, Networking, Troubleshooting</b>
  - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/ZayIT32/RG-Deploy-VM-RDP)
- - [Creating and Managing Local Users]()
+ - [Creating and Managing Local Users](https://github.com/ZayIT32/Local-Users)
  - [Troubleshooting Network Connectivity]()
  - [Managing Windows Updates]()
  - [Software Installation]()
