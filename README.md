@@ -1,7 +1,7 @@
 <h1>Hi, I'm Isaiah, a IAM analyst, IT Professional </a>☺</h1>
 
 - <b>Microsoft Azure Entra ID</b>
- - [Creating User's in Entra ID]()
+ - [Creating User's in Entra ID](https://github.com/ZayIT32/User-accounts)
  - [Cloud Provisioning - P2 Licensing]()
  - [Role Assignments]()
  - [Group Assignments]()
