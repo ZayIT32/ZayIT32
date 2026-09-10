@@ -16,7 +16,7 @@
  - [Troubleshooting Network Connectivity](https://github.com/ZayIT32/Troubleshoot-Network-connection)
  - [Managing Windows Updates](https://github.com/ZayIT32/Windows-Updates)
  - [Software Installation](https://github.com/ZayIT32/Software-install)
- - [Print Queue]()
+ - [Print Queue](https://github.com/ZayIT32/Printer-Q)
  - [Credential Manager and Cache]()
  - [PowerShell]()
 
