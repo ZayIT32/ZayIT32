@@ -14,7 +14,7 @@
  - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/ZayIT32/RG-Deploy-VM-RDP)
  - [Creating and Managing Local Users](https://github.com/ZayIT32/Local-Users)
  - [Troubleshooting Network Connectivity](https://github.com/ZayIT32/Troubleshoot-Network-connection)
- - [Managing Windows Updates]()
+ - [Managing Windows Updates](https://github.com/ZayIT32/Windows-Updates)
  - [Software Installation]()
  - [Print Queue]()
  - [Credential Manager and Cache]()
