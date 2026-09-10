@@ -6,7 +6,7 @@
  - [Role Assignments](https://github.com/ZayIT32/role-assignments)
  - [Group Assignments](https://github.com/ZayIT32/Group-assign)
  - [Identity Lifecycle](https://github.com/ZayIT32/identity-lifecycle)
- - [Audit Logs]()
+ - [Audit Logs](https://github.com/ZayIT32/Audit-logs)
  - [Sign-In Logs]()
  - [Authentication]()
 
