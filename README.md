@@ -8,7 +8,7 @@
  - [Identity Lifecycle](https://github.com/ZayIT32/identity-lifecycle)
  - [Audit Logs](https://github.com/ZayIT32/Audit-logs)
  - [Sign-In Logs](https://github.com/ZayIT32/Sign-in-logs)
- - [Authentication]()
+ - [Authentication](https://github.com/ZayIT32/authentication)
 
 - <b>Deployment, Networking, Troubleshooting</b>
  - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
