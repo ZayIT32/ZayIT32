@@ -4,7 +4,7 @@
  - [Creating User's in Entra ID](https://github.com/ZayIT32/User-accounts)
  - [Cloud Provisioning - P2 Licensing](https://github.com/ZayIT32/p2-licensing)
  - [Role Assignments](https://github.com/ZayIT32/role-assignments)
- - [Group Assignments]()
+ - [Group Assignments](https://github.com/ZayIT32/Group-assign)
  - [Identity Lifecycle]()
  - [Audit Logs]()
  - [Sign-In Logs]()
