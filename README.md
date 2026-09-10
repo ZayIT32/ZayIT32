@@ -7,7 +7,7 @@
  - [Group Assignments](https://github.com/ZayIT32/Group-assign)
  - [Identity Lifecycle](https://github.com/ZayIT32/identity-lifecycle)
  - [Audit Logs](https://github.com/ZayIT32/Audit-logs)
- - [Sign-In Logs]()
+ - [Sign-In Logs](https://github.com/ZayIT32/Sign-in-logs)
  - [Authentication]()
 
 - <b>Deployment, Networking, Troubleshooting</b>
