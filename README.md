@@ -18,7 +18,7 @@
  - [Software Installation](https://github.com/ZayIT32/Software-install)
  - [Print Queue](https://github.com/ZayIT32/Printer-Q)
  - [Credential Manager and Cache](https://github.com/ZayIT32/Credential-Manger)
- - [PowerShell]()
+ - [PowerShell](https://github.com/ZayIT32/Powershell)
 
  -  <b>Ticketing System</b>
   - [SpiceWorks Ticketing System]() 
