@@ -24,12 +24,12 @@
   - [SpiceWorks Ticketing System](https://github.com/ZayIT32/Ticket-system)
 
  - <b>Okta Administration</b>
-  - [Import Users from Entra to Okta]()
-  - [Enrollment Provisioning in Okta]()
-  - [Create Users Manually in Okta]()
-  - [Adding Attributes to Users in Our Okta Environment ]()
-  - [Creating Groups in Okta ]()
-  - [(ABAC) - Rules in Okta]()
-  - [Device Management ]()
-  - [Audit Logs in Okta]()
+  - [Import Users from Entra to Okta](https://github.com/ZayIT32/Import-Users-From-Entra-ID-to-Okta-Enviroment)
+  - [Enrollment Provisioning in Okta](https://github.com/ZayIT32/Enrollment-Provisioning-in-Okta)
+  - [Create Users Manually in Okta](https://github.com/ZayIT32/Create-Users-Manually-in-Okta-)
+  - [Adding Attributes to Users in Our Okta Environment ](https://github.com/ZayIT32/Adding-Attributes-to-Users-in-Our-Okta-Environment-)
+  - [Creating Groups in Okta ](https://github.com/ZayIT32/Creating-Groups-in-Okta)
+  - [(ABAC) - Rules in Okta](https://github.com/ZayIT32/-ABAC---Rules-in-Okta-)
+  - [Device Management ](https://github.com/ZayIT32/Device-Management)
+  - [Audit Logs in Okta](https://github.com/ZayIT32/Audit-Logs-in-Okta)
    
