@@ -23,4 +23,13 @@
  -  <b>Ticketing System</b>
   - [SpiceWorks Ticketing System](https://github.com/ZayIT32/Ticket-system)
 
- -  <b>Okta Administration 
+ - <b>Okta Administration</b>
+  - [Import Users from Entra to Okta]()
+  - [Enrollment Provisioning in Okta]()
+  - [Create Users Manually in Okta]()
+  - [Adding Attributes to Users in Our Okta Environment ]()
+  - [Creating Groups in Okta ]()
+  - [(ABAC) - Rules in Okta]()
+  - [Device Management ]()
+  - [Audit Logs in Okta]()
+   
